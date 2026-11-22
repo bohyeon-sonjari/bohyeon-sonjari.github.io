@@ -2,6 +2,7 @@
 layout: default
 title: "Got a 35B model running on 6GB"
 ---
+Previous: [We blamed the model for weeks. Our harness was silently breaking its own KV cache.](/)
 
 # I was about to give up on running a sub-agent on 6GB. Then I got a 35B model running on it.
 
